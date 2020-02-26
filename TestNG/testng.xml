@@ -3,7 +3,7 @@
 <suite name="Suite">
 <listeners >
 <listener class-name="Demo.Listners"></listener></listeners>
-  <test name="Test">
+  <test name="Testsljasdaljds">
     <classes>
       <class name="Demo.Day1"/>
       <class name="Demo.Day2"/>
@@ -13,8 +13,10 @@
   <test name="Loan">
     <classes>
       <class name="Demo.Day3">
+      
       </class>
       <class name="Demo.Day4"/>
     </classes>
   </test>
 </suite> <!-- Suite -->
+
